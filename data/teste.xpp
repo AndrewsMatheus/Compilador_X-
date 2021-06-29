@@ -1,0 +1,29 @@
+class b{
+constructor(){
+int i;
+string n;
+tipo F;
+print +int/-string;
+read tipo.tipo;
+super();
+if(+int%-string){
+super();
+}
+else{
+read tipo.tipo;
+}
+}
+string func(){
+    read tipo;
+}
+}
+class b extends a{
+string a;
+constructor(){break;}
+int func(int a, tipo D){
+super(+int, -int);
+for(tipo= +int; -int; tipo.tipo= +string){
+super();
+}
+}
+}

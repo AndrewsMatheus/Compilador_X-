@@ -1,0 +1,16 @@
+class c {
+    int a, a, b, a, b;
+    string [] a, d, f;
+    tipo f;
+
+    constructor(){
+        type[+int].a = -int;
+        x= -int;
+    }
+    int func(){
+        print +int/-int;
+        
+    }
+}
+class e extends c{}
+class c{}
